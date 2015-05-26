@@ -6,7 +6,7 @@ Octopad is a theme for Octopress, based on the classic theme and inspired by the
 Demo Site: [Tianyu's Press](http://tianyufang.net/)
 
 ## How-to
-        $ cd /octopress
-        $ git clone https://github.com/tianyuf/octopad.git .themes/octopad
-        $ rake install['octopad']
-        $ rake generate
+    $ cd /octopress
+    $ git clone https://github.com/tianyuf/octopad.git .themes/octopad
+    $ rake install['octopad']
+    $ rake generate
